@@ -3,9 +3,4 @@ Qualquer coisa alterado.
 fidhsfhsud
 hsfduhusfdhdsf
 husfdhufsd
-<<<<<<< HEAD
-
 FUDEU!
-=======
-Mais Linhas
->>>>>>> 4c671f16a6caf745631245688c3d284c11d4725f
